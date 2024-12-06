@@ -7,7 +7,7 @@
 
 ## 시연 영상
 - 인터페이스 시연 영상
-  [인터페이스 시연 영상](https://github.com/user-attachments/assets/3de05caf-41f6-4885-a865-12af92a5bad8)
+(https://github.com/user-attachments/assets/3de05caf-41f6-4885-a865-12af92a5bad8)
 
 
 
