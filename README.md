@@ -6,9 +6,8 @@
 - ㅇㅇ
 
 ## 시연 영상
-- 인터페이스 시연 영상
+### 인터페이스 시연 영상
 [인터페이스 시연 영상](https://github.com/user-attachments/assets/3de05caf-41f6-4885-a865-12af92a5bad8)
+### 홈페이지 시연 영상
+[홈페이지 시연 영상](https://github.com/user-attachments/assets/45b3d396-4a02-44b2-917d-06b70859ee4a)
 
-
-
-- 홈페이지 시연 영상
