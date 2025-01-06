@@ -84,7 +84,7 @@ function downloadFile() {
         alert('인증 성공! 파일을 다운로드합니다.');
         // Google Drive 직접 다운로드 링크
         const link = document.createElement('a');
-        link.href = "https://drive.google.com/uc?id=1DU-K4dgOFtiWLtmfzlHabLfc2GUTb6Oy&export=download";
+        link.href = "https://drive.google.com/file/d/1x7kos3yxlKcyatacEXq1Db8k9UjLG_yy/view?usp=drive_link";
         link.download = "main.exe"; // 다운로드될 파일명
         document.body.appendChild(link);
         link.click();
