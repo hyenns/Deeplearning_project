@@ -16,7 +16,10 @@
     - 경제적 효과: 절도 발생 시 즉각적인 대응이 가능하므로 절도 범죄로 인한 재산 손실 최소화 가능
     - 사회적 기여: 범죄를 줄이고, 더 안전한 환경을 조성함으로써 지역 사회에 긍정적인 영향을 미칠 것
  
-## 구현 홈페이지 바로가기: ["https://github.com/user-attachments/assets/b85c0f6a-f381-404b-8ced-1f93bbd3440c" />](https://hyenns.github.io/Deeplearning_project/"]
+## 구현 홈페이지 바로가기
+<a href="https://hyenns.github.io/Deeplearning_project/" target="_blank" style="text-decoration: none; color: inherit;">
+    CATCHTHETHIEF
+</a>
 
 ## 시연 영상
 ### 인터페이스 시연 영상
