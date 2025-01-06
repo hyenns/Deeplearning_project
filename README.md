@@ -18,7 +18,7 @@
  
 ## 구현 홈페이지 바로가기
 <a href="https://hyenns.github.io/Deeplearning_project/" target="_blank" style="text-decoration: none; color: inherit;">
-    CATCHTHETHIEF
+    CATCH THE THIEF 홈페이지 바로가기
 </a>
 
 ## 시연 영상
